@@ -21,7 +21,6 @@ cells.append(new_markdown_cell(
 "## Credit Card Fraud Detection -- Duboko Ucenje i Neuronske Mreze\n"
 "\n"
 "**Predmet:** Duboko ucenje i neuronske mreze\n"
-"**Student:** [Ime i prezime, broj indeksa]\n"
 "**Dataset:** [Kaggle -- Credit Card Fraud Detection]"
 "(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)\n"
 "\n"
